@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+    margin: 1em;
+}
+
+/* .flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+} */
+
+#offspring {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    flex-direction: column;
+}
