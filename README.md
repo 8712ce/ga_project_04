@@ -29,6 +29,13 @@
  </ul>
  
  <h1>Your Wireframes – sketches of major views / interfaces in your application</h1>
+<img src="https://user-images.githubusercontent.com/115300440/213970067-ab4a0592-732e-467c-a7f8-bcfb6c7e13a0.jpg)"/>
+<img src="https://user-images.githubusercontent.com/115300440/213970069-f5730589-b6e0-41b1-bf48-e2a3cdf0d076.jpg)"/>
+<img src="https://user-images.githubusercontent.com/115300440/213970074-a07a2c52-e3d8-40b3-8682-299859a8c56b.jpg)"/>
+<img src="https://user-images.githubusercontent.com/115300440/213970077-106b529c-4476-4a59-8201-c63d86381505.jpg)"/>
+<img src="https://user-images.githubusercontent.com/115300440/213970079-276d33d2-77c9-432c-a5d9-a99560d7a162.jpg)"/>
+<img src="https://user-images.githubusercontent.com/115300440/213970080-493c4837-0c93-4314-b8e2-2922c5518859.jpg)"/>
+<img src="https://user-images.githubusercontent.com/115300440/213970081-90ea9d1a-a279-469f-a5a6-4bed04fb2c00.jpg)"/>
 
  
  <h1>Descriptions of any Unsolved problems or major hurdles you had to overcome</h1>
