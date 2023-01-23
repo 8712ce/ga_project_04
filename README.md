@@ -7,10 +7,10 @@ https://github.com/8712ce/ga_project_04
 https://little-zombie-fun-game.herokuapp.com
 
 <h1>An embedded screenshot of the app</h1>
-<img src="https://user-images.githubusercontent.com/115300440/213969254-f43e54b9-3fff-4dbb-907d-2a069a7c178a.png)"/>
-<img src="https://user-images.githubusercontent.com/115300440/213969255-9282aee1-953a-4430-a45d-4b79a68c20fc.png)"/>
-<img src="https://user-images.githubusercontent.com/115300440/213969256-3da92327-73ea-4b7a-a1ee-4bd741e2b9ca.png)"/>
-<img src="https://user-images.githubusercontent.com/115300440/213969258-4c077938-4a77-4338-b4a7-1bcd0a3fccec.png)"/>
+<img src="https://user-images.githubusercontent.com/115300440/214100965-1fd1f7f5-8afe-4524-b473-571c850729ad.png"/>
+<img src="https://user-images.githubusercontent.com/115300440/214100970-f94a824d-31b2-481c-a46b-ddb737f36df0.png"/>
+<img src="https://user-images.githubusercontent.com/115300440/214100974-80de6034-d6d5-48c1-9c73-c7c2bd588698.png"/>
+<img src="https://user-images.githubusercontent.com/115300440/214100977-97aaca03-ad52-421f-bdc4-89e187ff9559.png"/>
 
 
  <h1>List of the Technologies used</h1>
@@ -41,13 +41,14 @@ Players create characters based on a model, update their character to zombie sta
  </ul>
  
  <h1>Your Wireframes – sketches of major views / interfaces in your application</h1>
-<img src="https://user-images.githubusercontent.com/115300440/213970067-ab4a0592-732e-467c-a7f8-bcfb6c7e13a0.jpg)"/>
-<img src="https://user-images.githubusercontent.com/115300440/213970069-f5730589-b6e0-41b1-bf48-e2a3cdf0d076.jpg)"/>
-<img src="https://user-images.githubusercontent.com/115300440/213970074-a07a2c52-e3d8-40b3-8682-299859a8c56b.jpg)"/>
-<img src="https://user-images.githubusercontent.com/115300440/213970077-106b529c-4476-4a59-8201-c63d86381505.jpg)"/>
-<img src="https://user-images.githubusercontent.com/115300440/213970079-276d33d2-77c9-432c-a5d9-a99560d7a162.jpg)"/>
-<img src="https://user-images.githubusercontent.com/115300440/213970080-493c4837-0c93-4314-b8e2-2922c5518859.jpg)"/>
-<img src="https://user-images.githubusercontent.com/115300440/213970081-90ea9d1a-a279-469f-a5a6-4bed04fb2c00.jpg)"/>
+<img src="https://user-images.githubusercontent.com/115300440/214101650-4c2f2c4e-e129-4d49-9424-17c7b62ff0d5.jpg"/>
+<img src="https://user-images.githubusercontent.com/115300440/214101652-2127bfa4-30c5-478f-8a8b-b570f763b5e2.jpg"/>
+<img src="https://user-images.githubusercontent.com/115300440/214101655-d22d1f91-2877-4cca-8f66-8553575f6f86.jpg"/>
+<img src="https://user-images.githubusercontent.com/115300440/214101656-ef6b10b4-cfda-4605-8063-64128d879b64.jpg"/>
+<img src="(https://user-images.githubusercontent.com/115300440/214101659-82382ead-96f5-4594-91a3-ae776b5201b9.jpg"/>
+<img src="https://user-images.githubusercontent.com/115300440/214101660-7325fa3e-6abc-4488-a992-edc6186f4cbf.jpg"/>
+<img src="https://user-images.githubusercontent.com/115300440/214101662-bf46f12f-4420-4099-abb8-54961d93aa16.jpg"/>
+
 
  <h3>STRETCH:</h3>
 I was unable to achieve the following stretch goals:
