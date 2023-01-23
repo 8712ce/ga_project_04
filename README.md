@@ -50,13 +50,13 @@ Players create characters based on a model, update their character to zombie sta
 <img src="https://user-images.githubusercontent.com/115300440/214101662-bf46f12f-4420-4099-abb8-54961d93aa16.jpg"/>
 
 
- <h3>STRETCH:</h3>
-I was unable to achieve the following stretch goals:
+<h1>Stretch Goals</h1>
+<p>I was unable to achieve the following stretch goals:</p>
 <ul>
 <li>Unauthenticated users can remove ("kill") authenticated user created zombies from the database.</li>
 <li>The player's weapon uses a Math.random() function to make battling the zombies for challenging.</li>
 <li>The user-create character's intelligence and personality determine the level of difficulty to defeat the character.</li>
 </ul>
 
- <h1>Descriptions of any Unsolved problems or major hurdles you had to overcome</h1>
- <p>Rendering updated data in the browser window was difficult, but thanks to the power of .then, this hurdle was overcome.</p>
+<h1>Descriptions of any Unsolved problems or major hurdles you had to overcome</h1>
+<p>Rendering updated data in the browser window was difficult, but thanks to the power of .then, this hurdle was overcome.</p>
