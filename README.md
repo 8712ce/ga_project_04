@@ -54,8 +54,8 @@ Players create characters based on a model, update their character to zombie sta
 <p>I was unable to achieve the following stretch goals:</p>
 <ul>
 <li>Unauthenticated users can remove ("kill") authenticated user created zombies from the database.</li>
-<li>The player's weapon uses a Math.random() function to make battling the zombies for challenging.</li>
-<li>The user-create character's intelligence and personality determine the level of difficulty to defeat the character.</li>
+<li>The player's weapon uses a Math.random() function to make battling the zombies more challenging.</li>
+<li>The user-created character's intelligence and personality determine the level of difficulty to defeat the character.</li>
 </ul>
 
 <h1>Descriptions of any Unsolved problems or major hurdles you had to overcome</h1>
