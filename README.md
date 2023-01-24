@@ -59,4 +59,4 @@ Players create characters based on a model, update their character to zombie sta
 </ul>
 
 <h1>Descriptions of any Unsolved problems or major hurdles you had to overcome</h1>
-<p>Rendering updated data in the browser window was difficult, but thanks to the power of .then, this hurdle was overcome.</p>
+<p>Rendering updated data in the browser window was difficult, but thanks to the power of .then(), this hurdle was overcome.</p>
