@@ -1,0 +1,37 @@
+.body {
+    text-align: center;
+}
+
+.main_text {
+    margin: 0em 2em 1em 2em;
+    font-weight: 900;
+    font-size: 200%;
+}
+
+.logInForm {
+    display: flex;
+    flex-direction: column;
+}
+
+input[type=text], input[type="password"], select {
+    width: 75%;
+    padding: 12px 20px;
+    margin: auto;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+label {
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+
+button {
+    margin: auto;
+    margin-top: 2em;
+    margin-bottom: 3em;
+    padding: 1em 1em;
+    width: 75%;
+}

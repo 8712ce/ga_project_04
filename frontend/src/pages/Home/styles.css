@@ -1,0 +1,16 @@
+.body {
+    text-align: center;
+    padding: 1em 2em;
+}
+
+.drawing {
+    margin-top: 1em;
+    margin-bottom: 2em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.warning {
+    color: #bd2222;
+}
